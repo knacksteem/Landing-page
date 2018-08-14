@@ -3,9 +3,9 @@
     <h1>Knacksteem</h1>
     <h2 v-if="$store.state.steemconnect.user">
       Hello {{ $store.state.steemconnect.user.account.name }}!
-      <a href="#" @click.prevent="$store.dispatch('logout')">Logout</a>
+      <a class="btn btn-primary" href="#" @click.prevent="$store.dispatch('logout')">Logout</a>
     </h2>
-    <a :href="$steemconnect.getLoginURL()" v-else>Login</a>
+    <a class="btn btn-primary" :href="$steemconnect.getLoginURL()" v-else>Login</a>
   </section>
 </template>
 
