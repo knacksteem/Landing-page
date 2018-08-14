@@ -13,7 +13,8 @@
     "precommit": "npm run lint"
   },
   "dependencies": {
-    "nuxt": "^1.0.0"
+    "nuxt": "^1.0.0",
+    "vue-steemconnect": "^0.2.2"
   },
   "devDependencies": {
     "cross-env": "^5.0.1",
