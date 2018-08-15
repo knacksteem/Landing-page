@@ -5,6 +5,7 @@
 
 .btn
   font-weight: bold
+  border-radius: 3px
 
 .btn-primary
   background-color: $brand-color !important
@@ -14,6 +15,23 @@
   &:focus
     background-color: lighten($brand-color, 10) !important
     border-color: lighten($brand-color, 10) !important
+
+.btn-white
+  background-color: #fff
+  border-color: #fff
+  color: $brand-color
+  &:hover,
+  &:active,
+  &:focus
+    background-color: #eee
+    border-color: #eee
+  &:focus
+    box-shadow: 0 0 0 0.2rem rgba(255, 255, 255, .5)
+
+.btn-lg
+  font-weight: 800
+  font-size: 1rem
+  padding: .8rem 1.2rem
 
 [class*="btn-outline-"]
   border-width: 2px !important
