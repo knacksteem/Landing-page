@@ -1,7 +1,10 @@
-$brand-color: #22429d
+@import "variables"
 
 *
   font-family: 'Montserrat', sans-serif
+
+.btn
+  font-weight: bold
 
 .btn-primary
   background-color: $brand-color !important
@@ -11,3 +14,14 @@ $brand-color: #22429d
   &:focus
     background-color: lighten($brand-color, 10) !important
     border-color: lighten($brand-color, 10) !important
+
+[class*="btn-outline-"]
+  border-width: 2px !important
+
+.btn-outline-secondary
+  border-color: #aaaaaa
+  color: #2a2a2a
+
+.dropdown-item
+  &:active
+    background-color: $brand-color
