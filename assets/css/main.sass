@@ -69,3 +69,31 @@
     background-color: $brand-color
     border-radius: 50%
     margin: 6px 10px 6px 0
+
+.card
+  border: none
+  box-shadow: 1px 1px 8px rgba(0, 0, 0, .1)
+  border-radius: 3px
+  text-align: center
+  padding: 25px 15px
+  &.flat
+    box-shadow: none
+  .avatar
+    width: 100px
+    height: 100px
+    background-size: cover
+    background-position: center center
+    border-radius: 50%
+    margin: 0 auto 15px
+  h3
+    font-size: 1.1rem
+    font-weight: bold
+    &:after
+      content: ''
+      width: 50px
+      height: 3px
+      background-color: #d3d9eb
+      display: block
+      margin: 20px auto 10px
+  p
+    margin: 0

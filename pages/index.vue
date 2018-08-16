@@ -93,6 +93,160 @@
       </div>
     </div>
 
+    <!-- Categories -->
+    <div class="section">
+      <div class="container">
+        <h1 class="text-center mb-5">Categories</h1>
+        <p class="text-center mb-5">Varieties of categories and sub-cats which you can contribute to, that best suit your area of expertise.</p>
+        <div class="row">
+          <div class="col-sm-6 col-md-4 col-lg-3">
+            <div class="card mb-4">
+              <h3>DIY</h3>
+              <p>Lorem ipsum dolor sit amet, consetetur sadipscing.</p>
+            </div>
+          </div>
+          <div class="col-sm-6 col-md-4 col-lg-3">
+            <div class="card mb-4">
+              <h3>ART</h3>
+              <p>Lorem ipsum dolor sit amet, consetetur sadipscing.</p>
+            </div>
+          </div>
+          <div class="col-sm-6 col-md-4 col-lg-3">
+            <div class="card mb-4">
+              <h3>ONE ALTRUISM</h3>
+              <p>Lorem ipsum dolor sit amet, consetetur sadipscing.</p>
+            </div>
+          </div>
+          <div class="col-sm-6 col-md-4 col-lg-3">
+            <div class="card mb-4">
+              <h3>FASHION</h3>
+              <p>Lorem ipsum dolor sit amet, consetetur sadipscing.</p>
+            </div>
+          </div>
+          <div class="col-sm-6 col-md-4 col-lg-3">
+            <div class="card mb-4">
+              <h3>TECH TREND</h3>
+              <p>Lorem ipsum dolor sit amet, consetetur sadipscing.</p>
+            </div>
+          </div>
+          <div class="col-sm-6 col-md-4 col-lg-3">
+            <div class="card mb-4">
+              <h3>MUSIC</h3>
+              <p>Lorem ipsum dolor sit amet, consetetur sadipscing.</p>
+            </div>
+          </div>
+          <div class="col-sm-6 col-md-4 col-lg-3">
+            <div class="card mb-4">
+              <h3>JOKE and HUMOR</h3>
+              <p>Lorem ipsum dolor sit amet, consetetur sadipscing.</p>
+            </div>
+          </div>
+          <div class="col-sm-6 col-md-4 col-lg-3">
+            <div class="card mb-4">
+              <h3>GAMING</h3>
+              <p>Lorem ipsum dolor sit amet, consetetur sadipscing.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Our Team / Sponsors -->
+    <div class="section bg-white">
+      <div class="container">
+        <h1 class="text-center">Our Team</h1>
+        <p class="text-center mb-5">Lorem ipsum dolor sit amet, consetetur sadipscing. Lorem ipsum dolor sit amet, consetetur sadipscing.</p>
+        <div class="row">
+          <div class="col-sm-6 col-md-4 col-lg-3">
+            <div class="card flat mb-4">
+              <div class="avatar" style="background-image: url('https://steemitimages.com/u/ms10398/avatar')"></div>
+              <h3>ms10398 (AKA Rebel)</h3>
+              <p>Dev instructo</p>
+            </div>
+          </div>
+          <div class="col-sm-6 col-md-4 col-lg-3">
+            <div class="card flat mb-4">
+              <div class="avatar" style="background-image: url('https://steemitimages.com/u/radudangratian/avatar')"></div>
+              <h3>radudangratian</h3>
+              <p>custodian/graphics designer</p>
+            </div>
+          </div>
+          <div class="col-sm-6 col-md-4 col-lg-3">
+            <div class="card flat mb-4">
+              <div class="avatar" style="background-image: url('https://steemitimages.com/u/tykee/avatar')"></div>
+              <h3>tykee</h3>
+              <p>supervisor</p>
+            </div>
+          </div>
+          <div class="col-sm-6 col-md-4 col-lg-3">
+            <div class="card flat mb-4">
+              <div class="avatar" style="background-image: url('https://steemitimages.com/u/ckole/avatar')"></div>
+              <h3>ckole</h3>
+              <p>marven</p>
+            </div>
+          </div>
+          <div class="col-sm-6 col-md-4 col-lg-3">
+            <div class="card flat mb-4">
+              <div class="avatar" style="background-image: url('https://steemitimages.com/u/darewealth/avatar')"></div>
+              <h3>darewealth</h3>
+              <p>marven</p>
+            </div>
+          </div>
+          <div class="col-sm-6 col-md-4 col-lg-3">
+            <div class="card flat mb-4">
+              <div class="avatar" style="background-image: url('https://steemitimages.com/u/luschn/avatar')"></div>
+              <h3>luschn</h3>
+              <p>Front-end dev</p>
+            </div>
+          </div>
+          <div class="col-sm-6 col-md-4 col-lg-3">
+            <div class="card flat mb-4">
+              <div class="avatar" style="background-image: url('https://steemitimages.com/u/jaysermendez/avatar')"></div>
+              <h3>jaysermendez</h3>
+              <p>Back-end dev</p>
+            </div>
+          </div>
+          <div class="col-sm-6 col-md-4 col-lg-3">
+            <div class="card flat mb-4">
+              <div class="avatar" style="background-image: url('https://steemitimages.com/u/outwork/avatar')"></div>
+              <h3>outwork</h3>
+              <p>UI/UX design</p>
+            </div>
+          </div>
+        </div>
+
+        <h1 class="text-center mt-5">Sponsors</h1>
+        <p class="text-center mb-5">Our sponsors (delegators) are eligible for 12% of the initial 15% beneficiary reward. The reward is directly proportional to the share of all Steem Power (SP) delegated.</p>
+        <div class="row">
+          <div class="col-sm-6 col-md-4">
+            <div class="card flat mb-4">
+              <div class="avatar" style="background-image: url('https://steemitimages.com/u/ms10398/avatar')"></div>
+              <h3>ms10398 (AKA Rebel)</h3>
+              <p>Dev instructo</p>
+            </div>
+          </div>
+          <div class="col-sm-6 col-md-4">
+            <div class="card flat mb-4">
+              <div class="avatar" style="background-image: url('https://steemitimages.com/u/radudangratian/avatar')"></div>
+              <h3>radudangratian</h3>
+              <p>custodian/graphics designer</p>
+            </div>
+          </div>
+          <div class="col-sm-6 col-md-4">
+            <div class="card flat mb-4">
+              <div class="avatar" style="background-image: url('https://steemitimages.com/u/tykee/avatar')"></div>
+              <h3>tykee</h3>
+              <p>supervisor</p>
+            </div>
+          </div>
+        </div>
+        <div class="d-flex justify-content-center align-items-center flex-column flex-sm-row">
+          <span>Do you like what we do?</span>
+          <a href="#" class="btn btn-lg btn-primary mt-3 mt-sm-0 ml-sm-3">Become a sponsor</a>
+        </div>
+      </div>
+    </div>
+
     <Footer />
   </div>
 </template>
