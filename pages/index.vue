@@ -1,10 +1,11 @@
 <template>
   <div>
     <Navbar />
-    <Header />
+
+    <Header id="top" />
 
     <!-- The basics are -->
-    <div class="section bg-white">
+    <div class="section bg-white" id="how-it-works">
       <div class="container">
         <h1 class="text-center">The basics are</h1>
         <p class="text-center mb-5">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore.</p>
@@ -152,7 +153,7 @@
     </div>
 
     <!-- Our Team / Sponsors -->
-    <div class="section bg-white">
+    <div class="section bg-white" id="team">
       <div class="container">
         <h1 class="text-center">Our Team</h1>
         <p class="text-center mb-5">Lorem ipsum dolor sit amet, consetetur sadipscing. Lorem ipsum dolor sit amet, consetetur sadipscing.</p>
@@ -257,6 +258,13 @@
   import Footer from '~/components/Footer'
 
   export default {
+    head: {
+      bodyAttrs: {
+        'data-spy': 'scroll',
+        'data-target': '#navbar',
+        'data-offset': '100'
+      }
+    },
     components: {
       Navbar,
       Header,

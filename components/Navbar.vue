@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <nav class="navbar navbar-expand-lg navbar-light bg-white">
+    <nav class="navbar navbar-expand-lg navbar-light bg-white fixed-top" id="navbar">
       <a class="navbar-brand" href="#">
         <img src="/img/logo.png" alt="KnackSteem" />
       </a>
@@ -10,14 +10,14 @@
 
       <div class="collapse navbar-collapse" id="navbar-collapse-content">
         <ul class="navbar-nav mx-auto">
-          <li class="nav-item active">
-            <a class="nav-link" href="#">Home</a>
+          <li class="nav-item">
+            <a class="nav-link" href="#top" @click.prevent="scrollTo('#top')">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">How it works?</a>
+            <a class="nav-link" href="#how-it-works" @click.prevent="scrollTo('#how-it-works')">How it works?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">About Us</a>
+            <a class="nav-link" href="#team" @click.prevent="scrollTo('#team')">About Us</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="#">Contribute</a>
@@ -46,11 +46,17 @@
 </template>
 
 <script>
+  import VueScrollTo from 'vue-scrollto' // for smooth scrolling
   import { mapGetters } from 'vuex'
 
   export default {
     computed: {
       ...mapGetters(['user'])
+    },
+    methods: {
+      scrollTo (target) {
+        VueScrollTo.scrollTo(target, 1000, {easing: 'ease-in-out'})
+      },
     }
   }
 </script>
@@ -64,8 +70,7 @@
     .navbar-nav
       .nav-link
         color: #2a2a2a
-      .active
-        > .nav-link
+        &.active
           color: $brand-color
           font-weight: bold
     .user-menu
