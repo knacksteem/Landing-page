@@ -32,21 +32,27 @@
     <!-- We value your creative talents -->
     <div class="section">
       <div class="container">
-        <h1 class="text-center mb-5">We value your creative talents</h1>
+        <h1 class="text-center">We value your creative talents</h1>
         <p class="text-center mb-5">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam.</p>
         <div class="row">
           <div class="col-sm-4 item">
-            <img src="/img/icon-heart.png" class="mb-3" />
+            <div style="height: 100px" class="d-flex justify-content-center">
+              <img src="/img/icons/value.svg" />
+            </div>
             <h3>We value the things you are passionate about.</h3>
             <p class="mt-3">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore.</p>
           </div>
           <div class="col-sm-4 item">
-            <img src="/img/icon-lightbulb.png" class="mb-3" />
+            <div style="height: 100px" class="d-flex justify-content-center">
+              <img src="/img/icons/invest.svg" />
+            </div>
             <h3>Invest your time in your passion.</h3>
             <p class="mt-3">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore.</p>
           </div>
           <div class="col-sm-4 item">
-            <img src="/img/icon-people.png" class="mb-3" />
+            <div style="height: 100px" class="d-flex justify-content-center">
+              <img src="/img/icons/people.svg" />
+            </div>
             <h3>Let people know what you have to offer.</h3>
             <p class="mt-3">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore.</p>
           </div>
@@ -102,48 +108,56 @@
         <div class="row">
           <div class="col-sm-6 col-md-4 col-lg-3">
             <div class="card mb-4">
+              <img src="/img/icons/diy.svg" class="mb-3" />
               <h3>DIY</h3>
               <p>Lorem ipsum dolor sit amet, consetetur sadipscing.</p>
             </div>
           </div>
           <div class="col-sm-6 col-md-4 col-lg-3">
             <div class="card mb-4">
+              <img src="/img/icons/art.svg" class="mb-3" />
               <h3>ART</h3>
               <p>Lorem ipsum dolor sit amet, consetetur sadipscing.</p>
             </div>
           </div>
           <div class="col-sm-6 col-md-4 col-lg-3">
             <div class="card mb-4">
+              <img src="/img/icons/altruism.svg" class="mb-3" />
               <h3>ONE ALTRUISM</h3>
               <p>Lorem ipsum dolor sit amet, consetetur sadipscing.</p>
             </div>
           </div>
           <div class="col-sm-6 col-md-4 col-lg-3">
             <div class="card mb-4">
+              <img src="/img/icons/fashion.svg" class="mb-3" />
               <h3>FASHION</h3>
               <p>Lorem ipsum dolor sit amet, consetetur sadipscing.</p>
             </div>
           </div>
           <div class="col-sm-6 col-md-4 col-lg-3">
             <div class="card mb-4">
+              <img src="/img/icons/trend.svg" class="mb-3" />
               <h3>TECH TREND</h3>
               <p>Lorem ipsum dolor sit amet, consetetur sadipscing.</p>
             </div>
           </div>
           <div class="col-sm-6 col-md-4 col-lg-3">
             <div class="card mb-4">
+              <img src="/img/icons/music.svg" class="mb-3" />
               <h3>MUSIC</h3>
               <p>Lorem ipsum dolor sit amet, consetetur sadipscing.</p>
             </div>
           </div>
           <div class="col-sm-6 col-md-4 col-lg-3">
             <div class="card mb-4">
+              <img src="/img/icons/joke.svg" class="mb-3" />
               <h3>JOKE and HUMOR</h3>
               <p>Lorem ipsum dolor sit amet, consetetur sadipscing.</p>
             </div>
           </div>
           <div class="col-sm-6 col-md-4 col-lg-3">
             <div class="card mb-4">
+              <img src="/img/icons/gaming.svg" class="mb-3" />
               <h3>GAMING</h3>
               <p>Lorem ipsum dolor sit amet, consetetur sadipscing.</p>
             </div>
