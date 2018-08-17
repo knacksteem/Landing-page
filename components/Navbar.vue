@@ -17,13 +17,13 @@
             <a class="nav-link" href="#how-it-works" @click.prevent="scrollTo('#how-it-works')">How it works?</a>
           </li>
           <li class="nav-item">
+            <a class="nav-link" href="#categories" @click.prevent="scrollTo('#categories')">Contribute</a>
+          </li>
+          <li class="nav-item">
             <a class="nav-link" href="#team" @click.prevent="scrollTo('#team')">About Us</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Contribute</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#">Contact</a>
+            <a class="nav-link" href="mailto:contact@knacksteem.org">Contact</a>
           </li>
         </ul>
         <form class="form-inline ml-auto" v-if="!user">

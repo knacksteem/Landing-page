@@ -101,7 +101,7 @@
     </div>
 
     <!-- Categories -->
-    <div class="section">
+    <div class="section" id="categories">
       <div class="container">
         <h1 class="text-center mb-5">Categories</h1>
         <p class="text-center mb-5">Varieties of categories and sub-cats which you can contribute to, that best suit your area of expertise.</p>
