@@ -1,0 +1,108 @@
+@import "variables"
+
+*
+  font-family: 'Montserrat', sans-serif
+
+html,
+body
+  height: 100%
+  min-height: 100%
+
+body
+  height: 100%
+  padding-top: 60px
+
+.btn
+  font-weight: bold
+  border-radius: 3px
+
+.btn-primary
+  background-color: $brand-color !important
+  border-color: $brand-color !important
+  &:hover,
+  &:active,
+  &:focus
+    background-color: lighten($brand-color, 10) !important
+    border-color: lighten($brand-color, 10) !important
+
+.btn-white
+  background-color: #fff
+  border-color: #fff
+  color: $brand-color
+  &:hover,
+  &:active,
+  &:focus
+    background-color: #eee
+    border-color: #eee
+  &:focus
+    box-shadow: 0 0 0 0.2rem rgba(255, 255, 255, .5)
+
+.btn-lg
+  font-weight: 800
+  font-size: 1rem
+  padding: .8rem 1.2rem
+
+[class*="btn-outline-"]
+  border-width: 2px !important
+
+.btn-outline-secondary
+  border-color: #aaaaaa
+  color: #2a2a2a
+
+.dropdown-item
+  &:active
+    background-color: $brand-color
+
+.section
+  background-color: $secondary-bg
+  padding: 80px 0 100px 0
+  position: relative
+  z-index: 1
+  &.bg-white
+    box-shadow: 0 0 10px rgba(0, 0, 0, .2)
+    z-index: 2
+  h1
+    color: $brand-color
+    font-weight: bold
+    font-size: 2rem
+  .item
+    text-align: center
+    h3
+      font-size: 1.1rem
+      font-weight: bold
+
+.bluedot
+  > div
+    width: 14px
+    height: 14px
+    background-color: $brand-color
+    border-radius: 50%
+    margin: 6px 10px 6px 0
+
+.card
+  border: none
+  box-shadow: 1px 1px 8px rgba(0, 0, 0, .1)
+  border-radius: 3px
+  text-align: center
+  padding: 25px 15px
+  &.flat
+    box-shadow: none
+  .avatar
+    width: 100px
+    height: 100px
+    background-size: cover
+    background-position: center center
+    border-radius: 50%
+    margin: 0 auto 15px
+  h3
+    font-size: 1.1rem
+    font-weight: bold
+    &:after
+      content: ''
+      width: 50px
+      height: 3px
+      background-color: #d3d9eb
+      display: block
+      margin: 20px auto 10px
+  p
+    margin: 0
