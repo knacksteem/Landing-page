@@ -20,3 +20,9 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
+
+## Credits
+
+* UI/UX designer-[@outwork](https://steemit.com/@outwork)
+
+* Dev-[@mkt](https://steemit.com/@mkt)
