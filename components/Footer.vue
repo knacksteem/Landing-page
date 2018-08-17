@@ -8,14 +8,14 @@
       <span class="text-muted d-inline-block ml-lg-3">All rights reserved.</span>
 
       <ul class="nav ml-lg-auto flex-column flex-sm-row text-center">
-        <li class="nav-item active">
-          <a class="nav-link" href="#">Home</a>
+        <li class="nav-item">
+          <a class="nav-link" href="#top" @click.prevent="scrollTo('#top')">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">How it works?</a>
+          <a class="nav-link" href="#how-it-works" @click.prevent="scrollTo('#how-it-works')">How it works?</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">About Us</a>
+          <a class="nav-link" href="#team" @click.prevent="scrollTo('#team')">About Us</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="#">Contribute</a>
@@ -27,6 +27,18 @@
     </div>
   </div>
 </template>
+
+<script>
+  import VueScrollTo from 'vue-scrollto' // for smooth scrolling
+
+  export default {
+    methods: {
+      scrollTo (target) {
+        VueScrollTo.scrollTo(target, 1000, {easing: 'ease-in-out'})
+      },
+    }
+  }
+</script>
 
 <style lang="sass" scoped>
   @import "../assets/css/variables"
