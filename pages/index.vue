@@ -71,11 +71,11 @@
             <h1 class="mb-4">Who can contribute?</h1>
             <div class="d-flex">
               <div class="bluedot"><div></div></div>
-              <div><b>Are you creative? Are you passionate about it? KnackSteem is for you.</b></div>
+              <div>Are you creative? Are you passionate about it? <b>KnackSteem is for you.</b></div>
             </div>
             <div class="d-flex">
               <div class="bluedot"><div></div></div>
-              <div><b>Anyone/everyone from all over the world can share their creativity (culture, talents, DIY projects, and so much more)</b></div>
+              <div>Anyone/everyone from all over the world can share their creativity (culture, talents, DIY projects, and so much more)</div>
             </div>
             <div class="mt-3">
               <a href="https://steemit.com/knacksteem/@knacksteem.org/introducing-knacksteem-a-platform-where-you-can-share-the-things-you-are-passionate-about" class="btn btn-lg btn-primary mt-3">Read more</a>
