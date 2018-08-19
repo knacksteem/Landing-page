@@ -5,9 +5,9 @@
         <div class="col col-md-8">
           <h1 class="text-white font-weight-bold">Invest in your creativity</h1>
           <p class="text-white">
-            Expose your creative talents directly to your audience and get rewarded via a decentralized voting based system (steem)
+            Show off your creative talents directly to your audience and get rewarded via a decentralized voting based system (Steem)
           </p>
-          <a href="#" class="btn btn-lg btn-white mt-3">Read more</a>
+          <a href="https://steemit.com/knacksteem/@knacksteem.org/introducing-knacksteem-a-platform-where-you-can-share-the-things-you-are-passionate-about" class="btn btn-lg btn-white mt-3">Read more</a>
         </div>
       </div>
     </div>
