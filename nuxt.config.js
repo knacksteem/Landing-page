@@ -3,7 +3,7 @@ const pkg = require('./package')
 module.exports = {
   mode: 'universal',
   env: {
-    scRedirectUrl: process.env.SC_REDIRECT_URL || 'https://knacksteem.org/',
+    scRedirectUrl: process.env.SC_REDIRECT_URL || 'https://knacksteem.org/callback',
   },
 
   /*
