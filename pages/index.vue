@@ -244,7 +244,7 @@
             <div class="card flat mb-4">
               <div class="avatar" style="background-image: url('https://steemitimages.com/u/radudangratian/avatar')"></div>
               <h3>radudangratian</h3>
-              <p>custodian/graphics designer</p>
+              <p>200 SP</p>
             </div>
           </div>
           <div class="col-sm-6 col-md-4">
