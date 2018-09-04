@@ -235,9 +235,9 @@
         <div class="row">
           <div class="col-sm-6 col-md-4">
             <div class="card flat mb-4">
-              <div class="avatar" style="background-image: url('https://steemitimages.com/u/ms10398/avatar')"></div>
-              <h3>ms10398 (AKA Rebel)</h3>
-              <p>Dev instructor</p>
+              <div class="avatar" style="background-image: url('https://steemitimages.com/u/kriptonik/avatar')"></div>
+              <h3>kriptonik</h3>
+              <p>50 SP</p>
             </div>
           </div>
           <div class="col-sm-6 col-md-4">
@@ -249,9 +249,9 @@
           </div>
           <div class="col-sm-6 col-md-4">
             <div class="card flat mb-4">
-              <div class="avatar" style="background-image: url('https://steemitimages.com/u/tykee/avatar')"></div>
-              <h3>tykee</h3>
-              <p>supervisor</p>
+              <div class="avatar" style="background-image: url('https://steemitimages.com/u/michelios/avatar')"></div>
+              <h3>michelios</h3>
+              <p>50 SP</p>
             </div>
           </div>
         </div>
