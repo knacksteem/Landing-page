@@ -235,9 +235,9 @@
         <div class="row">
           <div class="col-sm-6 col-md-4">
             <div class="card flat mb-4">
-              <div class="avatar" style="background-image: url('https://steemitimages.com/u/kriptonik/avatar')"></div>
-              <h3>kriptonik</h3>
-              <p>50 SP</p>
+              <div class="avatar" style="background-image: url('https://steemitimages.com/u/michelios/avatar')"></div>
+              <h3>michelios</h3>
+              <p>251 SP</p>
             </div>
           </div>
           <div class="col-sm-6 col-md-4">
@@ -247,11 +247,32 @@
               <p>200 SP</p>
             </div>
           </div>
+		  <div class="col-sm-6 col-md-4">
+            <div class="card flat mb-4">
+              <div class="avatar" style="background-image: url('https://steemitimages.com/u/icaro/avatar')"></div>
+              <h3>icaro</h3>
+              <p>100 SP</p>
+            </div>
+          </div>
+		  <div class="col-sm-6 col-md-4">
+            <div class="card flat mb-4">
+              <div class="avatar" style="background-image: url('https://steemitimages.com/u/blockcryptochain/avatar')"></div>
+              <h3>blockcryptochain</h3>
+              <p>50 SP</p>
+            </div>
+          </div>
+		  <div class="col-sm-6 col-md-4">
+            <div class="card flat mb-4">
+              <div class="avatar" style="background-image: url('https://steemitimages.com/u/kriptonik/avatar')"></div>
+              <h3>kriptonik</h3>
+              <p>50 SP</p>
+            </div>
+          </div>
           <div class="col-sm-6 col-md-4">
             <div class="card flat mb-4">
-              <div class="avatar" style="background-image: url('https://steemitimages.com/u/michelios/avatar')"></div>
-              <h3>michelios</h3>
-              <p>50 SP</p>
+              <div class="avatar" style="background-image: url('https://steemitimages.com/u/everydaycoach/avatar')"></div>
+              <h3>everydaycoach</h3>
+              <p>5 SP</p>
             </div>
           </div>
         </div>
