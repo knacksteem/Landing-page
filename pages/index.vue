@@ -254,18 +254,18 @@
               <p>50 SP</p>
             </div>
           </div>
-		  <div class="col-sm-6 col-md-4">
-            <div class="card flat mb-4">
-              <div class="avatar" style="background-image: url('https://steemitimages.com/u/kriptonik/avatar')"></div>
-              <h3>kriptonik</h3>
-              <p>50 SP</p>
-            </div>
-          </div>
 		    <div class="col-sm-6 col-md-4">
             <div class="card flat mb-4">
               <div class="avatar" style="background-image: url('https://steemitimages.com/u/michelios/avatar')"></div>
               <h3>michelios</h3>
               <p>50 SP</p>
+            </div>
+          </div>
+		   <div class="col-sm-6 col-md-4">
+            <div class="card flat mb-4">
+              <div class="avatar" style="background-image: url('https://steemitimages.com/u/profnuhu/avatar')"></div>
+              <h3>profnuhu</h3>
+              <p>10 SP</p>
             </div>
           </div>
           <div class="col-sm-6 col-md-4">
