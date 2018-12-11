@@ -202,9 +202,9 @@
           </div>
           <div class="col-sm-6 col-md-4 col-lg-3">
             <div class="card flat mb-4">
-              <div class="avatar" style="background-image: url('https://steemitimages.com/u/darewealth/avatar')"></div>
-              <h3>darewealth</h3>
-              <p>marven</p>
+              <div class="avatar" style="background-image: url('https://steemitimages.com/u/sirfreeman/avatar')"></div>
+              <h3>Sirfreeman</h3>
+              <p>Developer</p>
             </div>
           </div>
           <div class="col-sm-6 col-md-4 col-lg-3">
