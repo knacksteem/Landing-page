@@ -174,16 +174,16 @@
         <div class="row">
           <div class="col-sm-6 col-md-4 col-lg-3">
             <div class="card flat mb-4">
+              <div class="avatar" style="background-image: url('https://steemitimages.com/u/knowledges/avatar')"></div>
+              <h3>knowledges</h3>
+              <p>Project Founder</p>
+            </div>
+          </div>
+		            <div class="col-sm-6 col-md-4 col-lg-3">
+            <div class="card flat mb-4">
               <div class="avatar" style="background-image: url('https://steemitimages.com/u/ms10398/avatar')"></div>
               <h3>ms10398 (AKA Rebel)</h3>
               <p>Dev instructor</p>
-            </div>
-          </div>
-          <div class="col-sm-6 col-md-4 col-lg-3">
-            <div class="card flat mb-4">
-              <div class="avatar" style="background-image: url('https://steemitimages.com/u/radudangratian/avatar')"></div>
-              <h3>radudangratian</h3>
-              <p>custodian/graphics designer</p>
             </div>
           </div>
           <div class="col-sm-6 col-md-4 col-lg-3">
