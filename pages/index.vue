@@ -175,56 +175,56 @@
           <div class="col-sm-6 col-md-4 col-lg-3">
             <div class="card flat mb-4">
               <div class="avatar" style="background-image: url('https://steemitimages.com/u/knowledges/avatar')"></div>
-              <h3>knowledges</h3>
+              <h3><a href="https://steemit.com/@knowledges">knowledges</a></h3>
               <p>Project Founder</p>
             </div>
           </div>
 		            <div class="col-sm-6 col-md-4 col-lg-3">
             <div class="card flat mb-4">
               <div class="avatar" style="background-image: url('https://steemitimages.com/u/ms10398/avatar')"></div>
-              <h3>ms10398 (AKA Rebel)</h3>
+              <h3><a href="https://steemit.com/@ms10398">ms10398 (AKA Rebel)</a></h3>
               <p>Dev instructor</p>
             </div>
           </div>
           <div class="col-sm-6 col-md-4 col-lg-3">
             <div class="card flat mb-4">
               <div class="avatar" style="background-image: url('https://steemitimages.com/u/tykee/avatar')"></div>
-              <h3>tykee</h3>
+              <h3><a href="https://steemit.com/@tykee">Tykee</a></h3>
               <p>supervisor</p>
             </div>
           </div>
           <div class="col-sm-6 col-md-4 col-lg-3">
             <div class="card flat mb-4">
               <div class="avatar" style="background-image: url('https://steemitimages.com/u/ckole/avatar')"></div>
-              <h3>ckole</h3>
+              <h3><a href="https://steemit.com/@ckole">ckole</a></h3>
               <p>marven</p>
             </div>
           </div>
           <div class="col-sm-6 col-md-4 col-lg-3">
             <div class="card flat mb-4">
               <div class="avatar" style="background-image: url('https://steemitimages.com/u/sirfreeman/avatar')"></div>
-              <h3>Sirfreeman</h3>
+              <h3><a href="https://steemit.com/@sirfreeman">Sirfreeman</a></h3>
               <p>Developer</p>
             </div>
           </div>
           <div class="col-sm-6 col-md-4 col-lg-3">
             <div class="card flat mb-4">
               <div class="avatar" style="background-image: url('https://steemitimages.com/u/luschn/avatar')"></div>
-              <h3>luschn</h3>
+              <h3><a href="https://steemit.com/@luschn">Luschn</a></h3>
               <p>Front-end dev</p>
             </div>
           </div>
           <div class="col-sm-6 col-md-4 col-lg-3">
             <div class="card flat mb-4">
               <div class="avatar" style="background-image: url('https://steemitimages.com/u/jaysermendez/avatar')"></div>
-              <h3>jaysermendez</h3>
+              <h3><a href="https://steemit.com/@jaysermendez">Jaysermendez</a></h3>
               <p>Back-end dev</p>
             </div>
           </div>
           <div class="col-sm-6 col-md-4 col-lg-3">
             <div class="card flat mb-4">
               <div class="avatar" style="background-image: url('https://steemitimages.com/u/outwork/avatar')"></div>
-              <h3>outwork</h3>
+              <h3><a href="https://steemit.com/@outwork">Outwork</a></h3>
               <p>UI/UX design</p>
             </div>
           </div>
