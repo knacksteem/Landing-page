@@ -21,7 +21,7 @@
           <a class="nav-link" href="#team" @click.prevent="scrollTo('#team')">About Us</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="mailto:contact@knacksteem.org">Contact</a>
+          <a class="nav-link" href="https://discord.gg/t5RhBvE">Contact</a>
         </li>
       </ul>
     </div>
