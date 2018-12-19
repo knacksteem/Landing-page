@@ -23,7 +23,7 @@
           <div class="col-sm-4 item">
             <img src="/img/basics-3.png" class="mb-3" />
             <h3>Earn reward in Steem.</h3>
-            <p class="mt-3">Rewards will be awarded in steem token, a cryptocurrency that can be exchanged to any currency with immediate effect.</p>
+            <p class="mt-3">Rewards will be awarded in Steem token, a cryptocurrency that can be exchanged to any currency with immediate effect.</p>
           </div>
         </div>
       </div>
@@ -169,9 +169,14 @@
     <!-- Our Team / Sponsors -->
     <div class="section bg-white" id="team">
       <div class="container">
-        <h1 class="text-center">Our Team</h1>
+		<h1 class="text-center">About Us</h1>
+		<p class="text-center mb-5">There are over seven(7) billion people in the world today. Each person gifted with one or more talent. The problem is, a large chunk of people making up the world's population, ends up with a career that is not in accordance with their talents. This is mostly due to the fact that their talents are considered not good enough to yield reasonable income, or, they are not given the opportunity to exhibit their talents. Research has shown that a majority of these individuals are not passionate, and are unhappy about the work they do.
+        <br> Knacksteem, however, seeks to change that narrative by creating a platform where individuals with talents are given a chance to showcase their talents to the world, and also earn income while doing so.</p>
+		<p class="text-center mb-5">Our aims and objectives are not limited to only rewarding talented individuals. But, through our platform, we are also poised to deliver the following; <b>Diversification of income, Skill promotion, Skill acquisition, Encourage Philanthropy/charity, Legit information distribution.</b></p>
+		<p class="text-left mb-5"> These objectives show that we intend to do more than just give out reward to skillful individuals, but also, share your valuable knack directly to your niche.</p>
+		<h1 class="text-center">Our Team</h1>
         <p class="text-center mb-5">Meet our dedicated team of moderator and supervisor. They ensure quality content on this platform</p>
-        <div class="row">
+		<div class="row">
           <div class="col-sm-6 col-md-4 col-lg-3">
             <div class="card flat mb-4">
               <div class="avatar" style="background-image: url('https://steemitimages.com/u/knowledges/avatar')"></div>
@@ -236,43 +241,43 @@
           <div class="col-sm-6 col-md-4">
             <div class="card flat mb-4">
               <div class="avatar" style="background-image: url('https://steemitimages.com/u/radudangratian/avatar')"></div>
-              <h3>radudangratian</h3>
+              <h3><a href="https://steemit.com/@radudangratian">radudangratian</a></h3>
               <p>200 SP</p>
             </div>
           </div>
 		  <div class="col-sm-6 col-md-4">
             <div class="card flat mb-4">
               <div class="avatar" style="background-image: url('https://steemitimages.com/u/icaro/avatar')"></div>
-              <h3>icaro</h3>
+              <h3><a href="https://steemit.com/@icaro">icaro</a></h3>
               <p>100 SP</p>
             </div>
           </div>
 		  <div class="col-sm-6 col-md-4">
             <div class="card flat mb-4">
               <div class="avatar" style="background-image: url('https://steemitimages.com/u/blockcryptochain/avatar')"></div>
-              <h3>blockcryptochain</h3>
-              <p>50 SP</p>
-            </div>
-          </div>
-		    <div class="col-sm-6 col-md-4">
-            <div class="card flat mb-4">
-              <div class="avatar" style="background-image: url('https://steemitimages.com/u/michelios/avatar')"></div>
-              <h3>michelios</h3>
+              <h3><a href="https://steemit.com/@blockcryptochain">blockcryptochain</a></h3>
               <p>50 SP</p>
             </div>
           </div>
 		   <div class="col-sm-6 col-md-4">
             <div class="card flat mb-4">
               <div class="avatar" style="background-image: url('https://steemitimages.com/u/profnuhu/avatar')"></div>
-              <h3>profnuhu</h3>
-              <p>10 SP</p>
+              <h3><a href="https://steemit.com/@profnuhu">profnuhu</a></h3>
+              <p>25 SP</p>
             </div>
           </div>
           <div class="col-sm-6 col-md-4">
             <div class="card flat mb-4">
               <div class="avatar" style="background-image: url('https://steemitimages.com/u/everydaycoach/avatar')"></div>
-              <h3>everydaycoach</h3>
+              <h3><a href="https://steemit.com/@everydaycoach">everydaycoach</a></h3>
               <p>5 SP</p>
+            </div>
+          </div>
+		  <div class="col-sm-6 col-md-4">
+            <div class="card flat mb-4">
+              <div class="avatar" style="background-image: url('https://steemitimages.com/u/michelios/avatar')"></div>
+              <h3><a href="https://steemit.com/@michelios">michelios</a></h3>
+              <p>1 SP</p>
             </div>
           </div>
         </div>
