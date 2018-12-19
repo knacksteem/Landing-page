@@ -252,6 +252,20 @@
               <p>100 SP</p>
             </div>
           </div>
+		 <div class="col-sm-6 col-md-4">
+            <div class="card flat mb-4">
+              <div class="avatar" style="background-image: url('https://steemitimages.com/u/knowledges/avatar')"></div>
+              <h3><a href="https://steemit.com/@knowledges">knowledges</a></h3>
+              <p>100 SP</p>
+            </div>
+          </div>
+		  <div class="col-sm-6 col-md-4">
+            <div class="card flat mb-4">
+              <div class="avatar" style="background-image: url('https://steemitimages.com/u/harry-heightz/avatar')"></div>
+              <h3><a href="https://steemit.com/@harry-heightz">harry-heightz</a></h3>
+              <p>100 SP</p>
+            </div>
+          </div>
 		  <div class="col-sm-6 col-md-4">
             <div class="card flat mb-4">
               <div class="avatar" style="background-image: url('https://steemitimages.com/u/blockcryptochain/avatar')"></div>
