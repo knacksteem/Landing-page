@@ -238,6 +238,13 @@
         <h1 class="text-center mt-5">Sponsors</h1>
         <p class="text-center mb-5">Our sponsors (delegators) are eligible for 12% of the initial 15% beneficiary reward. The reward is directly proportional to the share of all Steem Power (SP) delegated.</p>
         <div class="row">
+			<div class="col-sm-6 col-md-4">
+            <div class="card flat mb-4">
+              <div class="avatar" style="background-image: url('https://steemitimages.com/u/knowledges/avatar')"></div>
+              <h3><a href="https://steemit.com/@knowledges">knowledges</a></h3>
+              <p>350 SP</p>
+            </div>
+          </div>
           <div class="col-sm-6 col-md-4">
             <div class="card flat mb-4">
               <div class="avatar" style="background-image: url('https://steemitimages.com/u/radudangratian/avatar')"></div>
@@ -249,13 +256,6 @@
             <div class="card flat mb-4">
               <div class="avatar" style="background-image: url('https://steemitimages.com/u/icaro/avatar')"></div>
               <h3><a href="https://steemit.com/@icaro">icaro</a></h3>
-              <p>100 SP</p>
-            </div>
-          </div>
-		 <div class="col-sm-6 col-md-4">
-            <div class="card flat mb-4">
-              <div class="avatar" style="background-image: url('https://steemitimages.com/u/knowledges/avatar')"></div>
-              <h3><a href="https://steemit.com/@knowledges">knowledges</a></h3>
               <p>100 SP</p>
             </div>
           </div>
