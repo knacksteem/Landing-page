@@ -238,6 +238,13 @@
         <h1 class="text-center mt-5">Sponsors</h1>
         <p class="text-center mb-5">Our sponsors (delegators) are eligible for 12% of the initial 15% beneficiary reward. The reward is directly proportional to the share of all Steem Power (SP) delegated.</p>
         <div class="row">
+				  <div class="col-sm-6 col-md-4">
+            <div class="card flat mb-4">
+              <div class="avatar" style="background-image: url('https://steemitimages.com/u/thebluewin/avatar')"></div>
+              <h3><a href="https://steemit.com/@thebluewin">thebluewin</a></h3>
+              <p>500 SP</p>
+            </div>
+          </div>
 			<div class="col-sm-6 col-md-4">
             <div class="card flat mb-4">
               <div class="avatar" style="background-image: url('https://steemitimages.com/u/knowledges/avatar')"></div>
@@ -266,6 +273,13 @@
               <p>100 SP</p>
             </div>
           </div>
+		    <div class="col-sm-6 col-md-4">
+            <div class="card flat mb-4">
+              <div class="avatar" style="background-image: url('https://steemitimages.com/u/atmospheric-haze/avatar')"></div>
+              <h3><a href="https://steemit.com/@atmospheric-haze">atmospheric-haze</a></h3>
+              <p>100 SP</p>
+            </div>
+          </div>
 		  <div class="col-sm-6 col-md-4">
             <div class="card flat mb-4">
               <div class="avatar" style="background-image: url('https://steemitimages.com/u/blockcryptochain/avatar')"></div>
@@ -280,18 +294,11 @@
               <p>25 SP</p>
             </div>
           </div>
-          <div class="col-sm-6 col-md-4">
+		  		   <div class="col-sm-6 col-md-4">
             <div class="card flat mb-4">
               <div class="avatar" style="background-image: url('https://steemitimages.com/u/everydaycoach/avatar')"></div>
               <h3><a href="https://steemit.com/@everydaycoach">everydaycoach</a></h3>
               <p>5 SP</p>
-            </div>
-          </div>
-		  <div class="col-sm-6 col-md-4">
-            <div class="card flat mb-4">
-              <div class="avatar" style="background-image: url('https://steemitimages.com/u/michelios/avatar')"></div>
-              <h3><a href="https://steemit.com/@michelios">michelios</a></h3>
-              <p>1 SP</p>
             </div>
           </div>
         </div>
