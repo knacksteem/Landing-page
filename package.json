@@ -14,7 +14,6 @@
   },
   "dependencies": {
     "express": "^4.16.3",
-    "express-http-to-https": "^1.1.4",
     "nuxt": "^1.0.0",
     "vue-scrollto": "^2.11.0",
     "vue-steemconnect": "^0.2.2"
