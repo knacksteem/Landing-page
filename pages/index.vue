@@ -188,7 +188,7 @@
             <div class="card flat mb-4">
               <div class="avatar" style="background-image: url('https://steemitimages.com/u/ms10398/avatar')"></div>
               <h3><a href="https://steemit.com/@ms10398">ms10398 (AKA Rebel)</a></h3>
-              <p>Dev instructor</p>
+              <p>Dev</p>
             </div>
           </div>
           <div class="col-sm-6 col-md-4 col-lg-3">
@@ -196,27 +196,6 @@
               <div class="avatar" style="background-image: url('https://steemitimages.com/u/tykee/avatar')"></div>
               <h3><a href="https://steemit.com/@tykee">Tykee</a></h3>
               <p>supervisor</p>
-            </div>
-          </div>
-          <div class="col-sm-6 col-md-4 col-lg-3">
-            <div class="card flat mb-4">
-              <div class="avatar" style="background-image: url('https://steemitimages.com/u/ckole/avatar')"></div>
-              <h3><a href="https://steemit.com/@ckole">ckole</a></h3>
-              <p>marven</p>
-            </div>
-          </div>
-          <div class="col-sm-6 col-md-4 col-lg-3">
-            <div class="card flat mb-4">
-              <div class="avatar" style="background-image: url('https://steemitimages.com/u/sirfreeman/avatar')"></div>
-              <h3><a href="https://steemit.com/@sirfreeman">Sirfreeman</a></h3>
-              <p>Developer</p>
-            </div>
-          </div>
-          <div class="col-sm-6 col-md-4 col-lg-3">
-            <div class="card flat mb-4">
-              <div class="avatar" style="background-image: url('https://steemitimages.com/u/luschn/avatar')"></div>
-              <h3><a href="https://steemit.com/@luschn">Luschn</a></h3>
-              <p>Front-end dev</p>
             </div>
           </div>
           <div class="col-sm-6 col-md-4 col-lg-3">
@@ -238,6 +217,20 @@
         <h1 class="text-center mt-5">Sponsors</h1>
         <p class="text-center mb-5">Our sponsors (delegators) are eligible for 12% of the initial 15% beneficiary reward. The reward is directly proportional to the share of all Steem Power (SP) delegated.</p>
         <div class="row">
+				  		   <div class="col-sm-6 col-md-4">
+            <div class="card flat mb-4">
+              <div class="avatar" style="background-image: url('https://steemitimages.com/u/jaysermendez/avatar')"></div>
+              <h3><a href="https://steemit.com/@jaysermendez">jaysermendez</a></h3>
+              <p>3397 SP</p>
+            </div>
+          </div>
+		  		   <div class="col-sm-6 col-md-4">
+            <div class="card flat mb-4">
+              <div class="avatar" style="background-image: url('https://steemitimages.com/u/ubongj/avatar')"></div>
+              <h3><a href="https://steemit.com/@ubongj">ubongj</a></h3>
+              <p>1001 SP</p>
+            </div>
+          </div>
 				  <div class="col-sm-6 col-md-4">
             <div class="card flat mb-4">
               <div class="avatar" style="background-image: url('https://steemitimages.com/u/thebluewin/avatar')"></div>
@@ -249,56 +242,42 @@
             <div class="card flat mb-4">
               <div class="avatar" style="background-image: url('https://steemitimages.com/u/knowledges/avatar')"></div>
               <h3><a href="https://steemit.com/@knowledges">knowledges</a></h3>
-              <p>350 SP</p>
+              <p>550 SP</p>
             </div>
           </div>
           <div class="col-sm-6 col-md-4">
             <div class="card flat mb-4">
-              <div class="avatar" style="background-image: url('https://steemitimages.com/u/radudangratian/avatar')"></div>
-              <h3><a href="https://steemit.com/@radudangratian">radudangratian</a></h3>
-              <p>200 SP</p>
+              <div class="avatar" style="background-image: url('https://steemitimages.com/u/coralcastle/avatar')"></div>
+              <h3><a href="https://steemit.com/@coralcastle">coralcastle</a></h3>
+              <p>400 SP</p>
             </div>
           </div>
 		  <div class="col-sm-6 col-md-4">
             <div class="card flat mb-4">
-              <div class="avatar" style="background-image: url('https://steemitimages.com/u/icaro/avatar')"></div>
-              <h3><a href="https://steemit.com/@icaro">icaro</a></h3>
-              <p>100 SP</p>
+              <div class="avatar" style="background-image: url('https://steemitimages.com/u/masterthematrix/avatar')"></div>
+              <h3><a href="https://steemit.com/@masterthematrix">masterthematrix</a></h3>
+              <p>301 SP</p>
             </div>
           </div>
 		  <div class="col-sm-6 col-md-4">
             <div class="card flat mb-4">
               <div class="avatar" style="background-image: url('https://steemitimages.com/u/harry-heightz/avatar')"></div>
               <h3><a href="https://steemit.com/@harry-heightz">harry-heightz</a></h3>
-              <p>100 SP</p>
+              <p>301 SP</p>
             </div>
           </div>
 		    <div class="col-sm-6 col-md-4">
             <div class="card flat mb-4">
-              <div class="avatar" style="background-image: url('https://steemitimages.com/u/atmospheric-haze/avatar')"></div>
-              <h3><a href="https://steemit.com/@atmospheric-haze">atmospheric-haze</a></h3>
-              <p>100 SP</p>
+              <div class="avatar" style="background-image: url('https://steemitimages.com/u/gungunkrishu/avatar')"></div>
+              <h3><a href="https://steemit.com/@gungunkrishu">gungunkrishu</a></h3>
+              <p>301 SP</p>
             </div>
           </div>
 		  <div class="col-sm-6 col-md-4">
             <div class="card flat mb-4">
-              <div class="avatar" style="background-image: url('https://steemitimages.com/u/blockcryptochain/avatar')"></div>
-              <h3><a href="https://steemit.com/@blockcryptochain">blockcryptochain</a></h3>
-              <p>50 SP</p>
-            </div>
-          </div>
-		   <div class="col-sm-6 col-md-4">
-            <div class="card flat mb-4">
-              <div class="avatar" style="background-image: url('https://steemitimages.com/u/profnuhu/avatar')"></div>
-              <h3><a href="https://steemit.com/@profnuhu">profnuhu</a></h3>
-              <p>25 SP</p>
-            </div>
-          </div>
-		  		   <div class="col-sm-6 col-md-4">
-            <div class="card flat mb-4">
-              <div class="avatar" style="background-image: url('https://steemitimages.com/u/everydaycoach/avatar')"></div>
-              <h3><a href="https://steemit.com/@everydaycoach">everydaycoach</a></h3>
-              <p>5 SP</p>
+              <div class="avatar" style="background-image: url('https://steemitimages.com/u/tobias-g/avatar')"></div>
+              <h3><a href="https://steemit.com/@tobias-g">tobias-g</a></h3>
+              <p>200 SP</p>
             </div>
           </div>
         </div>
